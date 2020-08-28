@@ -28,7 +28,7 @@ An updated version of this dataset can be found [here](http://archive.ics.uci.ed
 
 You can find original dataset using [link from course project](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
 
-Created the [tiny dataset](), use the following:
+Created the [tiny dataset](https://github.com/IngaMal/Getting-and-Cleaning-Data-Course-Project/blob/master/TidyData.txt), use the following:
 
 1. Merge the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.

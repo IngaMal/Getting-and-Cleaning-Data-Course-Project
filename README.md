@@ -30,5 +30,5 @@ This folder consists of:
 * [Tidy Data Set](https://github.com/IngaMal/Getting-and-Cleaning-Data-Course-Project/blob/master/TidyData.txt)
 * [Github Repo](https://github.com/IngaMal/Getting-and-Cleaning-Data-Course-Project.git)
 * [Analysis R Script](https://github.com/IngaMal/Getting-and-Cleaning-Data-Course-Project/blob/master/run_analysis.R)
-* [Codebook]
+* [Codebook](https://github.com/IngaMal/Getting-and-Cleaning-Data-Course-Project/blob/master/Codebook.md)
 * [ReadMe](https://github.com/IngaMal/Getting-and-Cleaning-Data-Course-Project/blob/master/README.md)

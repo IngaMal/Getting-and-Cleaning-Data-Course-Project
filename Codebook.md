@@ -26,7 +26,7 @@ Check the README.txt file for further details about this dataset.
 A video of the experiment including an example of the 6 recorded activities with one of the participants can be seen in the [following link](http://www.youtube.com/watch?v=XOEN9W05_4A).
 An updated version of this dataset can be found [here](http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions). It includes labels of postural transitions between activities and also the full raw inertial signals instead of the ones pre-processed into windows.
 
-You can find original dataset using [link from course project](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) or [this folder]().
+You can find original dataset using [link from course project](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
 
 Created the [tiny dataset](), use the following:
 
@@ -36,4 +36,4 @@ Created the [tiny dataset](), use the following:
 4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-You can find more information on [R code's comments]() and [ReadMe](https://github.com/IngaMal/Getting-and-Cleaning-Data-Course-Project/blob/master/README.md).
+You can find more information on [R code's comments](https://github.com/IngaMal/Getting-and-Cleaning-Data-Course-Project/blob/master/run_analysis.R) and [ReadMe](https://github.com/IngaMal/Getting-and-Cleaning-Data-Course-Project/blob/master/README.md).

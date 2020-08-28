@@ -30,4 +30,4 @@ This folder consists of:
 * [Github Repo]
 * [Analysis R Script](https://github.com/IngaMal/Getting-and-Cleaning-Data-Course-Project/blob/master/run_analysis.R)
 * [Codebook]
-* [ReadMe]
+* [ReadMe](https://github.com/IngaMal/Getting-and-Cleaning-Data-Course-Project/blob/master/README.md)

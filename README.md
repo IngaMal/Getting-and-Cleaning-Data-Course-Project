@@ -5,11 +5,11 @@ The purpose of this project is to demonstrate your ability to collect, work with
 
 Review criteria
 
-0.    The submitted data set is tidy.
-0.    The Github repo contains the required scripts.
-0.    GitHub contains a code book that modifies and updates the available codebooks with the data to indicate all the variables and summaries calculated, along with units, and any other relevant information.
-0.    The README that explains the analysis files is clear and understandable.
-0.    The work submitted for this project is the work of the student who submitted it.
+1.    The submitted data set is tidy.
+1.    The Github repo contains the required scripts.
+1.    GitHub contains a code book that modifies and updates the available codebooks with the data to indicate all the variables and summaries calculated, along with units, and any other relevant information.
+1.    The README that explains the analysis files is clear and understandable.
+1.    The work submitted for this project is the work of the student who submitted it.
 
 The purpose of this project is to demonstrate your **ability to collect, work with, and clean a data set**. The goal is to prepare tidy data that can be used for later analysis. You will be graded by your peers on a series of yes/no questions related to the project. You will be required to submit: 
 
@@ -22,9 +22,9 @@ One of the most exciting areas in all of data science right now is wearable comp
 
 You should create one R script called run_analysis.R that does the following.
 
-0.    Merges the training and the test sets to create one data set.
-0.     Extracts only the measurements on the mean and standard deviation for each measurement.
-0.     Uses descriptive activity names to name the activities in the data set
-0.     Appropriately labels the data set with descriptive variable names.
-0.     From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+1. Merges the training and the test sets to create one data set.
+1. Extracts only the measurements on the mean and standard deviation for each measurement.
+1. Uses descriptive activity names to name the activities in the data set
+1. Appropriately labels the data set with descriptive variable names.
+1. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 

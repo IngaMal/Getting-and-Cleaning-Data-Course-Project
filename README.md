@@ -26,7 +26,7 @@ One of the most exciting areas in all of data science right now is wearable comp
 This folder consists of:
 ----------------
 
-* [Tidy Data Set]
+* [Tidy Data Set](https://github.com/IngaMal/Getting-and-Cleaning-Data-Course-Project/blob/master/TidyData.txt)
 * [Github Repo]
 * [Analysis R Script](https://github.com/IngaMal/Getting-and-Cleaning-Data-Course-Project/blob/master/run_analysis.R)
 * [Codebook]
